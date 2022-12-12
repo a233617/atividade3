@@ -23,7 +23,7 @@ Diabéticos têm maior pressão média, e também pressão mediana
 
 Respota 3:
 
-A diferença não é significativa
+A diferença não é significativa. O p-valor é muito baixo. Dessa forma, é possível afirmar com alguma evidência que os conjuntos de dados são realmente diferentes, com 95% de confiança.
 
 O teste Wilcoxon pode ser uma boa alternativa ao teste t quando os meios populacionais não são importantes; 
 por exemplo, quando se pretende testar se a mediana de uma população não é zero, ou se existe uma probabilidade 
