@@ -48,7 +48,7 @@ T= Ttest_indResult(statistic=-5.819709111181409, pvalue=0.028279069072247292)
 
 Em Agosto, tanto a média quanto a mediana foi menor que Novembro
 
-O teste t parece ser mais apropriado que Wilcoxon
+O teste t parece ser mais apropriado
 
 
 c)
