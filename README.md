@@ -67,8 +67,7 @@ Teste de Cohen d
 Diabéticos: -4.0723633181394945
 Não diabéticos: -3.968437710042257
 
-Pelo que vi publicado (eu próprio, tenho 66 anos, sou diabético a 20 anos, mas tenho a pressão normal), e conversando com uma nutricionista 
-(Ludmila Peeira de Souza, CRN 11 2064), é possível afirmar que diabéticos podem ter pressão sanguínea maior. Mas não é uma garantia, uma certeza, mas é uma 
-tendência. Tem muitas variáveis, depende muito  do estilo de vida - Isso é o fator determinante Quanto melhor for o estilo de vida, a qualidade da alimentação, 
-melhor. Mais dificilmente a pressão alta virá ou pelo menos, será adiada.
+Pelo que vi publicado (eu próprio, sou diabético a 20 anos, mas tenho a pressão normal), e conversando com uma nutricionista 
+(Ludmila Pereira de Souza, CRN 11 2064), é possível afirmar que diabéticos podem ter pressão sanguínea maior. Mas não é uma garantia, uma certeza, mas é uma 
+tendência. Tem muitas variáveis, depende muito  do estilo de vida  do indivíduo - Isso é o fator determinante. Quanto melhor for o estilo de vida, a qualidade da alimentação, melhor, mais dificilmente a pressão alta virá ou pelo menos, será adiada.
 
